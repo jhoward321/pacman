@@ -1,0 +1,9 @@
+/*---------------------------------------------------------------------------
+  --      main.c                                                    	   --
+  --      James Howard                                                     --
+  --      Ref. http://pacman.shaunew.com/pacman.git map generation         --
+  --      Spring 2015                                                      --
+  --      Generates map levels                                                                 --
+  --      For use pacman final project                                     --
+  ---------------------------------------------------------------------------*/
+

@@ -1,0 +1,29 @@
+!SESSION 2015-04-09 14:33:23.782 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-04-09 14:35:59.591
+!MESSAGE Indexed 'usb_kb' (2 sources, 17 headers) in 0.56 sec: 54 declarations; 1,470 references; 28 unresolved inclusions; 0 syntax errors; 384 unresolved names (20.13%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-04-09 14:36:39.228
+!MESSAGE Indexed 'usb_kb_bsp' (79 sources, 110 headers) in 1.10 sec: 2,726 declarations; 4,291 references; 50 unresolved inclusions; 372 syntax errors; 259 unresolved names (3.56%)
+!SESSION 2015-04-16 14:16:11.769 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.epp.usagedata.recording 1 0 2015-04-16 14:16:33.177
+!MESSAGE Usage data upload to http://udc.eclipse.org/upload.php failed with error code 404.
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-04-16 14:19:38.392
+!MESSAGE Indexed 'mapgen_bsp' (79 sources, 114 headers) in 1.26 sec: 3,207 declarations; 4,958 references; 55 unresolved inclusions; 176 syntax errors; 113 unresolved names (1.37%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-04-16 14:19:38.923
+!MESSAGE Indexed 'mapgen' (0 sources, 13 headers) in 0.03 sec: 0 declarations; 0 references; 13 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
